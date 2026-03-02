@@ -41,6 +41,7 @@ include_directories(${PROJECT_SOURCE_DIR}/libs/smo/agl)
 include_directories(${PROJECT_SOURCE_DIR}/libs/smo/game)
 include_directories(${PROJECT_SOURCE_DIR}/libs/smo/NintendoSDK)
 include_directories(${PROJECT_SOURCE_DIR}/libs/smo/sead)
+include_directories(${PROJECT_SOURCE_DIR}/imgui)
 
 add_executable(subsdk9)
 add_subdirectory(user)

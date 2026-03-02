@@ -7,3 +7,6 @@
 [submodule "libs/nnsdk/submodule"]
 	path = libs/nnsdk/submodule
 	url = https://github.com/open-ead/nnheaders.git
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
